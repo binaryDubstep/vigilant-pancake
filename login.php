@@ -44,7 +44,7 @@ if (isset($_POST['login'])) {
         <div class="row">
             <div class="col-lg-10">
                 <div class="page-header">
-                    <h2>Login Form in PHP with Validation</h2>
+                    <h2>Login Form in PHP</h2>
                 </div>
                 <p>Please fill all fields in the form</p>
                 <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
